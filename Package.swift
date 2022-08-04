@@ -34,18 +34,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/sk-chanch/GoogleMaps-SPM/releases/download/6.2.0/GoogleMaps.xcframework.zip",
-            checksum: "4376732106c7ac046b7374da0432dab07bb2bb35b1fdfa51d6cdd7a612e89c35"
+            url: "https://github.com/sk-chanch/GoogleMaps-SPM/releases/download/7.0.0/GoogleMaps.xcframework.zip",
+            checksum: "eaead853620f8f31ffe520ab064b46792c3c78db1eaf64f158a7c2446f647608"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/sk-chanch/GoogleMaps-SPM/releases/download/6.2.0/GoogleMapsBase.xcframework.zip",
-            checksum: "80cc6d65a603de09ac3a7dd78ef63da42cf0029d7d17a3ef488360f342ccc591"
+            url: "https://github.com/sk-chanch/GoogleMaps-SPM/releases/download/7.0.0/GoogleMapsBase.xcframework.zip",
+            checksum: "e548f670a9b60bf062843d061a952e1cbde213d737d57ca47d06774e7ab21434"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/sk-chanch/GoogleMaps-SPM/releases/download/6.2.0/GoogleMapsCore.xcframework.zip",
-            checksum: "e65b40c7146d3b98c74408d31c0ec7fd9936981e0d346c01399fa7dd585e41b5"
+            url: "https://github.com/sk-chanch/GoogleMaps-SPM/releases/download/7.0.0/GoogleMapsCore.xcframework.zip",
+            checksum: "2ad0f89dd0311e216ecbe5d5e8955b03638f0230d333b66e4c67f830f330dd7a"
         )
     ]
 )
